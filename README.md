@@ -7,7 +7,7 @@ Este repositório contém um código em C para o **Raspberry Pi Pico** que utili
 3. **Controle do LED** - Acende o LED enquanto o botão estiver pressionado.
 
 ## Requisitos
-- **Placa:**BitDogLab com Raspberry Pi Pico
+- **Placa:** BitDogLab com Raspberry Pi Pico
 - **SDK:** Raspberry Pi Pico SDK
 - **Sistema Operacional:** FreeRTOS
 - **Ferramentas:** CMake, GNU Arm Embedded Toolchain
