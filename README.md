@@ -30,9 +30,3 @@ O código usa **semáforos** para sincronizar as tarefas:
    - Conecte o Pico ao PC segurando o **botão BOOTSEL**.
    - Copie o arquivo gerado para a unidade montada.
 
-## Autor
-Desenvolvido por [Seu Nome].
-
-## Licença
-Este projeto está sob a licença MIT.
-
