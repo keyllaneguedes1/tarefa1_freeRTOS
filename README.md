@@ -13,7 +13,7 @@ Este repositório contém um código em C para o **Raspberry Pi Pico** que utili
 - **Ferramentas:** CMake, GNU Arm Embedded Toolchain
 
 ## Circuito
-Conecte os componentes conforme abaixo:
+Componentes utilizados da BitDogLab conforme abaixo:
 
 - **Botão:** GPIO 5 (com pull-up interno)
 - **LED Verde:** GPIO 11
