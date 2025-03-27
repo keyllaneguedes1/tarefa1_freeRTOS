@@ -1,4 +1,4 @@
-# # Controle de LED com Botão usando FreeRTOS no Raspberry Pi Pico
+# Controle de LED com Botão usando FreeRTOS no Raspberry Pi Pico
 
 Este repositório contém um código em C para o **Raspberry Pi Pico** que utiliza o **FreeRTOS** para gerenciar três tarefas simultaneamente:
 
