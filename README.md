@@ -21,7 +21,7 @@ Componentes utilizados da BitDogLab conforme abaixo:
 ## Como Funciona
 O código usa **semáforos** para sincronizar as tarefas:
 
-1. A **Tarefa 1** (“Leitura do Botão”) lê o estado do botão a cada **100ms** e, caso detecte uma pressão, aciona a **Tarefa 2**.
+1. A **Tarefa 1** (“Leitura do Botão”) lê o estado do botão a cada **100ms** e, caso detecte uma pressão, aciona a **Tarefa 2**
 2. A **Tarefa 2** (“Processamento do Botão”) verifica se o botão foi pressionado e aciona a **Tarefa 3**.
 3. A **Tarefa 3** (“Controle do LED”) acende o LED enquanto o botão estiver pressionado.
 
